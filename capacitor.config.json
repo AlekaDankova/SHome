@@ -1,0 +1,6 @@
+{
+	"appId": "dankou.shome",
+	"appName": "SHome",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
